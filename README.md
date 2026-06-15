@@ -46,8 +46,6 @@ class SakethBainagari:
             "🎯 Targeting MANGOES 🥭 — Meta · Anthropic · Nvidia · Google · OpenAI · SpaceX",
         ]
 
-    def fun_fact(self):
-        return "I talk to databases in Telugu, Hindi & English — and they actually listen! 🗣️🗄️"
 ```
 
 <br/>
@@ -240,7 +238,6 @@ ML-based crop yield prediction system using agricultural datasets. Achieved an *
 
 <br/>
 
-*"The best way to predict the future is to build it — with AI."* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
