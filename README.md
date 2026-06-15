@@ -36,7 +36,7 @@ class SakethBainagari:
         self.role       = "AI Engineer & Full Stack Developer"
         self.location   = "Hyderabad, India 🇮🇳"
         self.education  = "B.Tech @ MLR Institute of Technology"
-        self.research   = "IEEE ICAUC 2026 — Published Researcher 📄"
+        self.research   = "IEEE ICAUC 2026 — Published Researcher"
 
     def current_focus(self):
         return [
@@ -205,7 +205,7 @@ ML-based crop yield prediction system using agricultural datasets. Achieved an *
 ```
 🧠  LLM Internals        →  Transformers, Attention Mechanisms, Fine-tuning Strategies
 🤖  Agentic AI           →  Multi-agent Systems, Tool Use, Planning & Reasoning
-🧩  DSA                  →  Daily problem solving — grinding towards MANGOES 🥭
+🧩  DSA                  →  Daily problem solving — grinding towards MANGOES
 ```
 
 ---
@@ -236,7 +236,6 @@ ML-based crop yield prediction system using agricultural datasets. Achieved an *
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakethbainagari@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakethBainagari)
 
-<br/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
