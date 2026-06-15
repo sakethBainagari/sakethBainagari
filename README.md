@@ -3,13 +3,13 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     HERO BANNER                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saketh%20Bainagari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Developer%20%7C%20RAG%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saketh%20Bainagari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20RAG%20%26%20LLMs%20%7C%20Software%20Developer&descAlignY=58&descSize=18"&animation=fadeIn" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saketh%20Bainagari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20%27%20%LLMs%20%7C%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+LLM-Powered+Applications+%F0%9F%A4%96;RAG+Pipelines+%7C+Agentic+AI+%7C+Semantic+Search;Targeting+MANGOES+%F0%9F%A5%AD+%E2%80%94+Meta+%7C+Anthropic+%7C+Nvidia+%7C+Google+%7C+OpenAI+%7C+SpaceX;IEEE+Published+Researcher+%F0%9F%93%84)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Applications+%F0%9F%A4%96;RAG+Pipelines;Agentic+AI;Semantic+Search;LangChain+%7C+LangGraph)](https://git.io/typing-svg)
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://sakethbainagari.github.io/sakethPortfolio/)
