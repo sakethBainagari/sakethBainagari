@@ -43,7 +43,6 @@ class SakethBainagari:
             "🔭 Building LLM-powered RAG pipelines & Agentic AI systems",
             "🧬 Deep-diving into LLM internals & transformer architectures",
             "🧩 Solving DSA problems consistently to sharpen problem-solving",
-            "🎯 Targeting MANGOES 🥭 — Meta · Anthropic · Nvidia · Google · OpenAI · SpaceX",
         ]
 
 ```
